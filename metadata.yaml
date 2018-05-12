@@ -1,0 +1,41 @@
+_repo: Our-ElizabethA-Humour-Novel_18430
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Forbes, Ernest
+    aliases:
+    - Cormac
+    - Holgate, Ernest Forbes
+    - Shemus
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '38117'
+    url: http://www.gutenberg.org/2009/agents/38117
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kilpatrick, Florence A. (Florence Antoinette)
+    birthdate: 1888
+    gutenberg_agent_id: '8020'
+    url: http://www.gutenberg.org/2009/agents/8020
+description: ''
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Households -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Housekeeping -- Fiction'
+title: 'Our Elizabeth
+
+  A Humour Novel'
+url: http://www.gutenberg.org/ebooks/18430
